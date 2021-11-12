@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @pelpa1111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> Doormat </h1>
+<p> A simple bot to send welcome and leave msgs ti your server! </p>
 
-<!---
-pelpa1111/pelpa1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Setup
++ Make sure to edit `config.js` to the correct values!
++ Run `npm i` and then `node index.js` and you should be good to go!
+
+## Extra
++ A video explaining the usage of the bot can be found **[Here]()**
++ A webserver is added if ya wanna host on repl.it :D
